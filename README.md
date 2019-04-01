@@ -32,3 +32,9 @@ tone on beat 1-2
 for this example in measure 1, each number represents half step
 |1-2|2-3|3-4|4-5|5-6|6-7|7-8|
 | 3 | 4 | 3 | 2 | 9 | - | - |
+
+April 1st:
+from here this is how I see this going
+find a way to determine and show the most common movements, ie for any chord tone (ex: b5 on ii-6) what is the next most common tone choice
+This would create a MASSIVE data set of probable movements since we could have say the most probable choice be playing the one on beat one of the ii, then having say 20% chance of moving to 3 and 15% chance of moving to 2
+[1[3:20%,2:15%]]
